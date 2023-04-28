@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paresh Rane
-- 👀 I’m interested in Javascript , Python and SQL
-- 🌱 I’m currently learning Javascript and its frameworks
+- 👀 I’m interested in Python , SQL , Pandas , Tableau and Excel
+- 🌱 I’m currently working as Data Analyst
 - 💞️ I’m looking to collaborate on I don't know ..!!
 - 📫 How to reach me pareshr32@gmail.com
 
